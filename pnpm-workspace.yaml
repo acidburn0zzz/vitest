@@ -42,4 +42,4 @@ catalog:
   unocss: ^0.65.4
   unplugin-vue-components: ^0.28.0
   vue: 3.5.12
-  ws: ^8.18.1
+  ws: ^8.21.0
